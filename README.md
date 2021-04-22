@@ -1,4 +1,4 @@
-# air_quality_project
+# air_quality_index
 
 This is a simple project to query iQAir Open API to fetch the current weather and air quality index for a particular city and send the output over email.
 
